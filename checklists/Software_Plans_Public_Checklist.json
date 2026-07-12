@@ -1,0 +1,191 @@
+{
+  "source_workbook": "Software_Plans_Public_Checklist.xlsx",
+  "title": "Software Plans Public Checklist",
+  "checklist_sheet": "Checklist",
+  "reference_legend": {},
+  "record_count": 15,
+  "records": [
+    {
+      "id": "section-1-your-development-plan-sdp-001",
+      "section": "Section 1 — Your Development Plan (SDP)",
+      "subsection": "Based on DO-178B/C §11.2, does your Software Development Plan:",
+      "item_label": "(1)",
+      "query": "Describe how the software is organized and built — the life cycle, the processes, and who is responsible?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A4"
+    },
+    {
+      "id": "section-1-your-development-plan-sdp-002",
+      "section": "Section 1 — Your Development Plan (SDP)",
+      "subsection": "Based on DO-178B/C §11.2, does your Software Development Plan:",
+      "item_label": "(2)",
+      "query": "Define the transition criteria between phases (how you know one activity is complete enough to start the next)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A5"
+    },
+    {
+      "id": "section-1-your-development-plan-sdp-003",
+      "section": "Section 1 — Your Development Plan (SDP)",
+      "subsection": "Based on DO-178B/C §11.2, does your Software Development Plan:",
+      "item_label": "(3)",
+      "query": "Identify the development environment — the programming languages, compilers, and tools you will use?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A6"
+    },
+    {
+      "id": "section-1-your-development-plan-sdp-004",
+      "section": "Section 1 — Your Development Plan (SDP)",
+      "subsection": "Based on DO-178B/C §11.2, does your Software Development Plan:",
+      "item_label": "(4)",
+      "query": "Reference the standards the project will follow?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A7"
+    },
+    {
+      "id": "section-2-your-verification-plan-svp-005",
+      "section": "Section 2 — Your Verification Plan (SVP)",
+      "subsection": "Based on DO-178B/C §11.3, does your Software Verification Plan:",
+      "item_label": "(1)",
+      "query": "Describe how you will verify the software — the reviews, analyses, and tests — and who performs them independently where your software level requires it?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A10"
+    },
+    {
+      "id": "section-2-your-verification-plan-svp-006",
+      "section": "Section 2 — Your Verification Plan (SVP)",
+      "subsection": "Based on DO-178B/C §11.3, does your Software Verification Plan:",
+      "item_label": "(2)",
+      "query": "Define the verification environment and the criteria for when verification is complete?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A11"
+    },
+    {
+      "id": "section-3-your-configuration-management--007",
+      "section": "Section 3 — Your Configuration Management Plan (SCMP)",
+      "subsection": "Based on DO-178B/C §11.4, does your Software Configuration Management Plan:",
+      "item_label": "(1)",
+      "query": "Describe what is placed under configuration control, and at what points (the baselines)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A14"
+    },
+    {
+      "id": "section-3-your-configuration-management--008",
+      "section": "Section 3 — Your Configuration Management Plan (SCMP)",
+      "subsection": "Based on DO-178B/C §11.4, does your Software Configuration Management Plan:",
+      "item_label": "(2)",
+      "query": "Describe problem reporting, change control, and change review?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A15"
+    },
+    {
+      "id": "section-3-your-configuration-management--009",
+      "section": "Section 3 — Your Configuration Management Plan (SCMP)",
+      "subsection": "Based on DO-178B/C §11.4, does your Software Configuration Management Plan:",
+      "item_label": "(3)",
+      "query": "Cover archive, retrieval, release, and how the software is loaded and protected?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A16"
+    },
+    {
+      "id": "section-4-your-quality-assurance-plan-sq-010",
+      "section": "Section 4 — Your Quality Assurance Plan (SQAP)",
+      "subsection": "Based on DO-178B/C §11.5, does your Software Quality Assurance Plan:",
+      "item_label": "(1)",
+      "query": "Describe how QA will gain assurance that the processes and their outputs follow your plans and standards?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A19"
+    },
+    {
+      "id": "section-4-your-quality-assurance-plan-sq-011",
+      "section": "Section 4 — Your Quality Assurance Plan (SQAP)",
+      "subsection": "Based on DO-178B/C §11.5, does your Software Quality Assurance Plan:",
+      "item_label": "(2)",
+      "query": "Provide for QA independence and for a conformity review before you declare compliance?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A20"
+    },
+    {
+      "id": "section-5-your-standards-012",
+      "section": "Section 5 — Your Standards",
+      "subsection": "Based on DO-178B/C §11.6 through §11.8, do you have:",
+      "item_label": "(1)",
+      "query": "Requirements, design, and coding standards that set the rules and constraints your team will follow?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A23"
+    },
+    {
+      "id": "section-5-your-standards-013",
+      "section": "Section 5 — Your Standards",
+      "subsection": "Based on DO-178B/C §11.6 through §11.8, do you have:",
+      "item_label": "(2)",
+      "query": "Coding standards appropriate to the actual programming language(s) you are using?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A24"
+    },
+    {
+      "id": "section-6-making-sure-the-plans-hold-tog-014",
+      "section": "Section 6 — Making Sure the Plans Hold Together",
+      "subsection": "A cross-check across all your plans:",
+      "item_label": "(1)",
+      "query": "Are the plans consistent with each other and with the PSAC — same processes, same life cycle, same software levels?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A27"
+    },
+    {
+      "id": "section-6-making-sure-the-plans-hold-tog-015",
+      "section": "Section 6 — Making Sure the Plans Hold Together",
+      "subsection": "A cross-check across all your plans:",
+      "item_label": "(2)",
+      "query": "Does the rigor in the plans match the software level (more verification and more independence at the higher levels)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [
+        "This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org."
+      ],
+      "source_cell": "A28"
+    }
+  ]
+}

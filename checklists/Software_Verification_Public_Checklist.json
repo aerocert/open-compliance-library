@@ -1,0 +1,143 @@
+{
+  "source_workbook": "Software_Verification_Public_Checklist.xlsx",
+  "title": "Software Verification Public Checklist",
+  "checklist_sheet": "Checklist",
+  "reference_legend": {},
+  "record_count": 11,
+  "records": [
+    {
+      "id": "section-1-your-test-cases-and-procedures-001",
+      "section": "Section 1 — Your Test Cases and Procedures",
+      "subsection": "Based on DO-178B/C §6 and §11.13, do your test cases and procedures:",
+      "item_label": "(1)",
+      "query": "Come from your requirements (requirements-based testing), rather than just from the code?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A4"
+    },
+    {
+      "id": "section-1-your-test-cases-and-procedures-002",
+      "section": "Section 1 — Your Test Cases and Procedures",
+      "subsection": "Based on DO-178B/C §6 and §11.13, do your test cases and procedures:",
+      "item_label": "(2)",
+      "query": "Include normal-range cases that check the software works as intended?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A5"
+    },
+    {
+      "id": "section-1-your-test-cases-and-procedures-003",
+      "section": "Section 1 — Your Test Cases and Procedures",
+      "subsection": "Based on DO-178B/C §6 and §11.13, do your test cases and procedures:",
+      "item_label": "(3)",
+      "query": "Include robustness cases that check it behaves safely with invalid, unexpected, or boundary inputs?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A6"
+    },
+    {
+      "id": "section-1-your-test-cases-and-procedures-004",
+      "section": "Section 1 — Your Test Cases and Procedures",
+      "subsection": "Based on DO-178B/C §6 and §11.13, do your test cases and procedures:",
+      "item_label": "(4)",
+      "query": "Define the test environment, so someone else could reproduce your testing?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A7"
+    },
+    {
+      "id": "section-2-your-verification-results-005",
+      "section": "Section 2 — Your Verification Results",
+      "subsection": "Based on DO-178B/C §11.14, do your verification results:",
+      "item_label": "(1)",
+      "query": "Show that every planned test, review, and analysis was actually run?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A10"
+    },
+    {
+      "id": "section-2-your-verification-results-006",
+      "section": "Section 2 — Your Verification Results",
+      "subsection": "Based on DO-178B/C §11.14, do your verification results:",
+      "item_label": "(2)",
+      "query": "Record anything that failed as a problem report, and show it was resolved or dispositioned?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A11"
+    },
+    {
+      "id": "section-3-your-verification-analyses-007",
+      "section": "Section 3 — Your Verification Analyses",
+      "subsection": "Based on DO-178B/C §6.3 and §6.4, have you:",
+      "item_label": "(1)",
+      "query": "Reviewed and analyzed the requirements, design, and code (not only tested them) for correctness and consistency?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A14"
+    },
+    {
+      "id": "section-3-your-verification-analyses-008",
+      "section": "Section 3 — Your Verification Analyses",
+      "subsection": "Based on DO-178B/C §6.3 and §6.4, have you:",
+      "item_label": "(2)",
+      "query": "Analyzed requirements-based test coverage — that your tests cover every requirement?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A15"
+    },
+    {
+      "id": "section-3-your-verification-analyses-009",
+      "section": "Section 3 — Your Verification Analyses",
+      "subsection": "Based on DO-178B/C §6.3 and §6.4, have you:",
+      "item_label": "(3)",
+      "query": "Analyzed structural coverage — that your tests exercised the code to the level your software level demands (statement, decision, or MC/DC)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A16"
+    },
+    {
+      "id": "section-3-your-verification-analyses-010",
+      "section": "Section 3 — Your Verification Analyses",
+      "subsection": "Based on DO-178B/C §6.3 and §6.4, have you:",
+      "item_label": "(4)",
+      "query": "Explained or resolved any code or data your tests did not cover?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A17"
+    },
+    {
+      "id": "section-4-traceability-011",
+      "section": "Section 4 — Traceability",
+      "subsection": "Based on DO-178B/C §6:",
+      "item_label": "(1)",
+      "query": "Can you trace requirements to test cases to results, so you can show each requirement was verified?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [
+        "This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org."
+      ],
+      "source_cell": "A20"
+    }
+  ]
+}

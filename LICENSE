@@ -1,0 +1,18 @@
+Copyright (c) 2026 AeroCert
+
+This work — the AeroCert Open Compliance Library checklists — is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+SPDX-License-Identifier: CC-BY-4.0
+
+You are free to share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit to AeroCert, link to the license, and indicate if
+changes were made.
+
+Human-readable summary:  https://creativecommons.org/licenses/by/4.0/
+Full legal code:         https://creativecommons.org/licenses/by/4.0/legalcode
+
+NOTE TO MAINTAINER: replace this file with the full CC BY 4.0 legal code before
+publishing. The simplest correct way is GitHub's "Add file -> Choose a license ->
+Creative Commons Attribution 4.0", which inserts the canonical full text verbatim
+(see PUBLISH_STEPS.md). Do not hand-transcribe the legal code.

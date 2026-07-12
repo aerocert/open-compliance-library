@@ -1,0 +1,179 @@
+{
+  "source_workbook": "Tool_Qualification_Public_Checklist.xlsx",
+  "title": "Tool Qualification Public Checklist",
+  "checklist_sheet": "Checklist",
+  "reference_legend": {},
+  "record_count": 14,
+  "records": [
+    {
+      "id": "section-1-deciding-which-tools-need-qual-001",
+      "section": "Section 1 — Deciding Which Tools Need Qualification",
+      "subsection": "Based on DO-178B/C §12.2, have you worked out which tools need qualification:",
+      "item_label": "(1)",
+      "query": "Have you identified every tool whose output you rely on without independently checking it, so a tool error could put a fault into your software or let one slip past your verification?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A4"
+    },
+    {
+      "id": "section-1-deciding-which-tools-need-qual-002",
+      "section": "Section 1 — Deciding Which Tools Need Qualification",
+      "subsection": "Based on DO-178B/C §12.2, have you worked out which tools need qualification:",
+      "item_label": "(2)",
+      "query": "For each such tool, have you decided whether it is a development tool (its output ends up in the airborne software) or a verification tool (it could fail to catch an error)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A5"
+    },
+    {
+      "id": "section-1-deciding-which-tools-need-qual-003",
+      "section": "Section 1 — Deciding Which Tools Need Qualification",
+      "subsection": "Based on DO-178B/C §12.2, have you worked out which tools need qualification:",
+      "item_label": "(3)",
+      "query": "Have you assigned each tool a Tool Qualification Level (TQL) based on how it is used and your software level?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A6"
+    },
+    {
+      "id": "section-2-your-tool-qualification-plan-004",
+      "section": "Section 2 — Your Tool Qualification Plan",
+      "subsection": "Based on DO-178B/C §12.2 (and, for DO-178C projects, DO-330):",
+      "item_label": "(1)",
+      "query": "Do you have a plan describing how each tool will be qualified, at a rigor matching its TQL?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A9"
+    },
+    {
+      "id": "section-2-your-tool-qualification-plan-005",
+      "section": "Section 2 — Your Tool Qualification Plan",
+      "subsection": "Based on DO-178B/C §12.2 (and, for DO-178C projects, DO-330):",
+      "item_label": "(2)",
+      "query": "Does the plan capture the tool operational requirements — what the tool must do, in your environment, for you to trust it?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A10"
+    },
+    {
+      "id": "section-2-your-tool-qualification-plan-006",
+      "section": "Section 2 — Your Tool Qualification Plan",
+      "subsection": "Based on DO-178B/C §12.2 (and, for DO-178C projects, DO-330):",
+      "item_label": "(3)",
+      "query": "Have you agreed the qualification approach with the certification authority (for example, stated it in your PSAC)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A11"
+    },
+    {
+      "id": "section-3-building-the-tool-qualificatio-007",
+      "section": "Section 3 — Building the Tool Qualification Data",
+      "subsection": "For DO-178C projects, DO-330 sets the tool life-cycle data:",
+      "item_label": "(1)",
+      "query": "For higher-TQL tools, do you have the tool requirements, design, and configuration data your plan calls for?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A14"
+    },
+    {
+      "id": "section-3-building-the-tool-qualificatio-008",
+      "section": "Section 3 — Building the Tool Qualification Data",
+      "subsection": "For DO-178C projects, DO-330 sets the tool life-cycle data:",
+      "item_label": "(2)",
+      "query": "Are the standards used to develop or configure the tool identified?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A15"
+    },
+    {
+      "id": "section-4-showing-the-tool-actually-work-009",
+      "section": "Section 4 — Showing the Tool Actually Works",
+      "subsection": "Based on DO-178B/C §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(1)",
+      "query": "Have you verified the tool against its operational requirements — that it does what you need, in your real environment?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A18"
+    },
+    {
+      "id": "section-4-showing-the-tool-actually-work-010",
+      "section": "Section 4 — Showing the Tool Actually Works",
+      "subsection": "Based on DO-178B/C §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(2)",
+      "query": "For higher-TQL tools, have you verified the tool's own requirements, design, and code to the extent required?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A19"
+    },
+    {
+      "id": "section-4-showing-the-tool-actually-work-011",
+      "section": "Section 4 — Showing the Tool Actually Works",
+      "subsection": "Based on DO-178B/C §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(3)",
+      "query": "Do the results show every planned qualification case was run and passed, with any failures resolved?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A20"
+    },
+    {
+      "id": "section-5-controlling-and-summarizing-th-012",
+      "section": "Section 5 — Controlling and Summarizing the Tool",
+      "subsection": "Based on DO-178B/C §7 and §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(1)",
+      "query": "Is the tool under configuration management — a known version, with its environment recorded so a result can be reproduced later?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A23"
+    },
+    {
+      "id": "section-5-controlling-and-summarizing-th-013",
+      "section": "Section 5 — Controlling and Summarizing the Tool",
+      "subsection": "Based on DO-178B/C §7 and §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(2)",
+      "query": "Is there quality-assurance oversight of the tool qualification activity?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A24"
+    },
+    {
+      "id": "section-5-controlling-and-summarizing-th-014",
+      "section": "Section 5 — Controlling and Summarizing the Tool",
+      "subsection": "Based on DO-178B/C §7 and §12.2 (and DO-330 for DO-178C projects):",
+      "item_label": "(3)",
+      "query": "Do you have a tool configuration index and a summary that record what was qualified and how it meets its objectives?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [
+        "This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org."
+      ],
+      "source_cell": "A25"
+    }
+  ]
+}

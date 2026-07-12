@@ -1,0 +1,131 @@
+{
+  "source_workbook": "Reviews_Data_and_Schedules_Public_Checklist.xlsx",
+  "title": "Reviews Data and Schedules Public Checklist",
+  "checklist_sheet": "Checklist",
+  "reference_legend": {},
+  "record_count": 10,
+  "records": [
+    {
+      "id": "section-1-your-formal-reviews-001",
+      "section": "Section 1 — Your Formal Reviews",
+      "subsection": "Based on DO-178B/C §7 and §8 review discipline, in your milestone reviews:",
+      "item_label": "(1)",
+      "query": "Have you planned the key reviews — Requirements Review, Preliminary Design Review, Critical Design Review, and Test Readiness Review?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A4"
+    },
+    {
+      "id": "section-1-your-formal-reviews-002",
+      "section": "Section 1 — Your Formal Reviews",
+      "subsection": "Based on DO-178B/C §7 and §8 review discipline, in your milestone reviews:",
+      "item_label": "(2)",
+      "query": "At each review, do you confirm the right data is ready, and capture issues and track them to closure?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A5"
+    },
+    {
+      "id": "section-2-project-schedules-and-resource-003",
+      "section": "Section 2 — Project Schedules and Resources",
+      "subsection": "Based on DO-178B/C §11.2 planning, does your project plan:",
+      "item_label": "(1)",
+      "query": "Show the major software milestones and how the life-cycle phases transition?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A8"
+    },
+    {
+      "id": "section-2-project-schedules-and-resource-004",
+      "section": "Section 2 — Project Schedules and Resources",
+      "subsection": "Based on DO-178B/C §11.2 planning, does your project plan:",
+      "item_label": "(2)",
+      "query": "Plan certification liaison — when and what you will submit to the FAA?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A9"
+    },
+    {
+      "id": "section-2-project-schedules-and-resource-005",
+      "section": "Section 2 — Project Schedules and Resources",
+      "subsection": "Based on DO-178B/C §11.2 planning, does your project plan:",
+      "item_label": "(3)",
+      "query": "Identify the people, tools, and facilities (the resources) needed to do the work?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A10"
+    },
+    {
+      "id": "section-3-general-software-data-and-deli-006",
+      "section": "Section 3 — General Software Data and Delivery",
+      "subsection": "Across all your life-cycle data:",
+      "item_label": "(1)",
+      "query": "Is the data complete, controlled, and clearly identified, so a reviewer can find what they need?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A13"
+    },
+    {
+      "id": "section-3-general-software-data-and-deli-007",
+      "section": "Section 3 — General Software Data and Delivery",
+      "subsection": "Across all your life-cycle data:",
+      "item_label": "(2)",
+      "query": "Is the data marked with the right status and delivered in the agreed form?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A14"
+    },
+    {
+      "id": "section-4-previously-developed-and-cots--008",
+      "section": "Section 4 — Previously Developed and COTS Software",
+      "subsection": "Based on DO-178B/C §12.1, if you reuse software:",
+      "item_label": "(1)",
+      "query": "Have you shown reused or COTS software meets the objectives for your software level — not just that it worked before?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A17"
+    },
+    {
+      "id": "section-4-previously-developed-and-cots--009",
+      "section": "Section 4 — Previously Developed and COTS Software",
+      "subsection": "Based on DO-178B/C §12.1, if you reuse software:",
+      "item_label": "(2)",
+      "query": "Have you assessed the impact of any modification to it, or of using it in a changed environment?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [],
+      "source_cell": "A18"
+    },
+    {
+      "id": "section-4-previously-developed-and-cots--010",
+      "section": "Section 4 — Previously Developed and COTS Software",
+      "subsection": "Based on DO-178B/C §12.1, if you reuse software:",
+      "item_label": "(3)",
+      "query": "If you rely on product service history, do you have the data to support that argument (relevant environment, enough hours, problem records)?",
+      "reference_raw": "",
+      "references": [],
+      "level_applicability": "All",
+      "notes": [
+        "This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org."
+      ],
+      "source_cell": "A19"
+    }
+  ]
+}
