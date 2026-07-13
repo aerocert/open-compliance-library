@@ -1,5 +1,6 @@
 # Internal-only files — never push these to the public GitHub repo
 CLAUDE.md
 PUBLISH_STEPS.md
+DECISIONS.md
 # Maintainer helper with internal workspace paths (owner may un-ignore deliberately)
 tools/
