@@ -36,4 +36,4 @@ _Based on DO-178B/C §12.1:_
 _Cross-cutting sanity checks before you submit:_
 - **(1)** Do the PSAC and SAS agree with each other — same components, same software levels, same processes?
 - **(2)** Did you do everything the PSAC promised — and where you didn't, does the SAS explain the deviation?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.

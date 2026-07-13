@@ -23,4 +23,4 @@ _Based on DO-178B/C §6.3 and §6.4, have you:_
 
 _Based on DO-178B/C §6:_
 - **(1)** Can you trace requirements to test cases to results, so you can show each requirement was verified?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.

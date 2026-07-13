@@ -22,4 +22,4 @@ _Based on DO-178B/C §5.3 and §11.11, is your source code:_
 _Based on DO-178B/C §5 and §6:_
 - **(1)** Can you trace from system requirements to software requirements to design to code — and back the other way?
 - **(2)** Does every piece of code exist because a requirement asked for it, with no unintended or untraceable code?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.

@@ -22,4 +22,4 @@ _Based on FAA software conformity and first-article-inspection expectations:_
 _Based on DO-178B/C §7.2.7 and §11.16, when you deliver:_
 - **(1)** Do you deliver the controlled version together with its configuration index and the instructions to reproduce it?
 - **(2)** For pre-production or engineering releases, is the release status clearly marked, so a development build is not mistaken for a certified one?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.

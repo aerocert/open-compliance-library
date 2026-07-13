@@ -48,7 +48,7 @@ needed to fully close each objective.
 
 The **comprehensive tier** — the detailed, item-level review checklists with the specific
 compliance actions and per-item citations, kept current as the standards change — is
-available from AeroCert through donations.
+available from AeroCert: contact [support@aerocert.org](mailto:support@aerocert.org).
 
 > Use these checklists, share them, and tell us how they worked for you — open an issue
 > right here, or write to [support@aerocert.org](mailto:support@aerocert.org).

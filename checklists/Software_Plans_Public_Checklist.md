@@ -33,4 +33,4 @@ _Based on DO-178B/C §11.6 through §11.8, do you have:_
 _A cross-check across all your plans:_
 - **(1)** Are the plans consistent with each other and with the PSAC — same processes, same life cycle, same software levels?
 - **(2)** Does the rigor in the plans match the software level (more verification and more independence at the higher levels)?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.

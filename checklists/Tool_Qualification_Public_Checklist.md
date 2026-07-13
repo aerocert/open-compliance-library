@@ -29,4 +29,4 @@ _Based on DO-178B/C §7 and §12.2 (and DO-330 for DO-178C projects):_
 - **(1)** Is the tool under configuration management — a known version, with its environment recorded so a result can be reproduced later?
 - **(2)** Is there quality-assurance oversight of the tool qualification activity?
 - **(3)** Do you have a tool configuration index and a summary that record what was qualified and how it meets its objectives?
-  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available through donations. We'd love to hear how it worked for you — tell us at support@aerocert.org.
+  - Note: This free checklist is a high-level sanity check — free to use and share. It doesn't include the item-level actions needed to fully close each objective; those live in AeroCert's comprehensive checklist, kept current as the standards change and available from AeroCert. We'd love to hear how it worked for you — tell us at support@aerocert.org.
