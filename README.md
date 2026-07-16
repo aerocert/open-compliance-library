@@ -35,9 +35,10 @@ standard.
 
 ## Get them by email
 
-Everything here is free to use as-is. If you'd rather have the checklists delivered to
-your inbox — along with occasional plain-language guides on navigating the FAA
-certification process — visit the [AeroCert Programs page](https://aerocert.org/programs).
+Everything here is free to use as-is, right from this repo. If you'd also like the
+library delivered to your inbox — with a link back here plus occasional plain-language
+guides on navigating the FAA certification process — sign up via the
+[AeroCert Programs page](https://aerocert.org/programs).
 
 ## Two tiers
 
