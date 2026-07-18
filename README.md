@@ -7,6 +7,8 @@ an in-house Designated Engineering Representative (DER).
 
 Advancing aviation safety for the public good.
 
+Follow [AeroCert Institute on LinkedIn](https://www.linkedin.com/company/133357306/) for new checklists and plain-language articles, or visit [aerocert.org](https://www.aerocert.org/).
+
 ## What's here
 
 Seven plain-language checklists (88 checkpoints total), one per major certification topic:
@@ -58,7 +60,7 @@ available from AeroCert: contact [support@aerocert.org](mailto:support@aerocert.
 
 Corrections, clarifications, and suggestions are welcome — open an issue or a pull
 request. For certification questions, the master checklists, or engagement inquiries,
-contact **support@aerocert.org**.
+contact **support@aerocert.org** — and follow us on [LinkedIn](https://www.linkedin.com/company/133357306/) to hear when new material lands.
 
 Nothing in this library is applicant-confidential or company-specific, and it does not
 reproduce copyrighted RTCA text — regulatory anchors are cited at the section level only.
