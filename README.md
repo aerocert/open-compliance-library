@@ -9,6 +9,10 @@ Advancing aviation safety for the public good.
 
 Follow [AeroCert Institute on LinkedIn](https://www.linkedin.com/company/133357306/) for new checklists and plain-language articles, or visit [aerocert.org](https://www.aerocert.org/).
 
+### ➔ [Browse the checklist library →](checklists/)
+
+All seven checklists live in [`checklists/`](checklists/) — free to use and share, no signup required.
+
 ## What's here
 
 Seven plain-language checklists (88 checkpoints total), one per major certification topic:
@@ -66,6 +70,16 @@ Nothing in this library is applicant-confidential or company-specific, and it do
 reproduce copyrighted RTCA text — regulatory anchors are cited at the section level only.
 These checklists are guidance, not a substitute for a qualified DER or an FAA finding of
 compliance.
+
+## Support this work
+
+AeroCert Institute is a federally recognized 501(c)(3) nonprofit organization. This
+library is free, and it stays free — no gate, no signup, CC BY 4.0.
+
+If it saved you time and you'd like to help keep material like it being written and
+maintained, you can [donate to AeroCert](https://www.aerocert.org/donate/). Donations fund
+the mission: plain-language aviation safety education, published in the open. They are
+voluntary gifts — they don't buy, unlock, or entitle anyone to anything.
 
 ## License
 
