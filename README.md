@@ -27,10 +27,13 @@ Seven plain-language checklists (88 checkpoints total), one per major certificat
 | Configuration Management & Delivery | 10 |
 | Reviews, Data & Schedules | 10 |
 
-Each checklist ships in two formats in [`checklists/`](checklists/):
+Each checklist ships in three formats in [`checklists/`](checklists/):
 
 - **`.md`** — human-readable, renders on GitHub.
 - **`.json`** — machine-readable (one record per checkpoint) for tooling and retrieval.
+- **`.xlsx`** — a working copy to fill in: a self-check dropdown on every checkpoint,
+  a live count of your “Not yet” and “Unsure” answers, and a sample of what the
+  comprehensive review checklists look like.
 
 ## How to use
 
