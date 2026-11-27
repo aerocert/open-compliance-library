@@ -17,15 +17,22 @@ All seven checklists live in [`checklists/`](checklists/) — free to use and sh
 
 Seven plain-language checklists (88 checkpoints total), one per major certification topic:
 
-| Checklist | Checkpoints |
-|---|---|
-| PSAC / SAS (plans & summary of compliance) | 18 |
-| Tool Qualification | 14 |
-| Software Plans | 15 |
-| Requirements, Design & Code | 10 |
-| Software Verification | 11 |
-| Configuration Management & Delivery | 10 |
-| Reviews, Data & Schedules | 10 |
+| Checklist | Checkpoints | Watch |
+|---|---|---|
+| PSAC / SAS (plans & summary of compliance) | 18 | [What goes in a PSAC, and when to submit it](https://www.youtube.com/watch?v=Vu9VyrzMmM8) (7:06) · [the eight parts, in 48 seconds](https://www.youtube.com/watch?v=rja4vYd2N64) |
+| Tool Qualification | 14 | — |
+| Software Plans | 15 | [What decides your software level, A to E](https://www.youtube.com/watch?v=NCDMlb8TXrI) (5:43) |
+| Requirements, Design & Code | 10 | — |
+| Software Verification | 11 | [A test passed — what does that actually prove?](https://www.youtube.com/watch?v=1Ym40uBFD0M) (13:11) |
+| Configuration Management & Delivery | 10 | — |
+| Reviews, Data & Schedules | 10 | — |
+
+Two more videos cover decisions that cut across several of these checklists: [does a change
+to DO-178B software force DO-178C?](https://www.youtube.com/watch?v=vh4yNkS8FYA) (5:50) and
+[reusing DO-178B software unchanged, against AC 20-115D](https://www.youtube.com/watch?v=ET8650dXtHw)
+(4:47). All of them sit in one playlist — [**Airborne Software: Getting
+Started**](https://www.youtube.com/playlist?list=PLFzqY4Z-8cko) — on the
+[AeroCert YouTube channel](https://www.youtube.com/@AeroCertOrg).
 
 Each checklist ships in three formats in [`checklists/`](checklists/):
 
